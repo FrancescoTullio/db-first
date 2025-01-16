@@ -1,0 +1,22 @@
+id - int
+plate (targa) - varchar (32)
+chassis (telaio) - varchar(255)
+brand (marca) - varchar (32)
+immatricolation_date - date
+model (modello) - varchar (32)
+photo - varchar(255)
+is_ready - unsigned tinyint
+is_used - unsigned tinyint
+km - unsigned decimal(10, 2)
+color - varchar(32)
+from - varchar(255)
+year - year
+ready_from - date
+alimentation - varchar(32)
+optional_one - unsigned tinyint
+optional_two - unsigned tinyint
+optional_tree - unsigned tinyint
+optional_for - unsigned tinyint
+last_control - date
+price- unsigned decimal(10, 2)
+discount - unsigned varchar(32)
