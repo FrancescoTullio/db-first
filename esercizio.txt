@@ -18,5 +18,5 @@ optional_two - unsigned tinyint
 optional_tree - unsigned tinyint
 optional_for - unsigned tinyint
 last_control - date
-price- unsigned decimal(10, 2)
+price - unsigned decimal(10, 2)
 discount - unsigned varchar(32)
